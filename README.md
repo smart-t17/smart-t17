@@ -8,8 +8,8 @@
 
 🔭 Hi, I'm a passionate Full Stack developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-🌱 Great experience in developing react, vue, node and python.
-🌱 Strong experience in SQL and CSS3.
+🌱 Great experience in developing React, Angular, Vue, Node, PHP and Python.
+🌱 Strong experience in SQL, NoSQL and CSS3, TailwindCSS.
 
 - 💬 Ask me about anything, I am happy to help;
 
@@ -28,9 +28,9 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text                                                                                                       
-Python           7 hrs██████░░░░░░░░░░░░░░░░░░░   15.2 % 
+Python        7 hrs   ██████░░░░░░░░░░░░░░░░░░░   15.2 % 
 TypeScript   16 hrs   ██████████████░░░░░░░░░░░   34.7 % 
-Javascript     21 hrs █████████████████░░░░░░░░   45.6 % 
+Javascript   21 hrs   █████████████████░░░░░░░░   45.6 % 
 SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░░░░░░░   04.5 % 
 ```
 <!--END_SECTION:waka-->
